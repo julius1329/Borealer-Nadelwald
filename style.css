@@ -16,6 +16,7 @@ a{
   font-size: 30px;
   mix-blend-mode: color;
   font-weight: bolder;
+  display: block;
 }
 .navbar a:hover{
   color: black;
