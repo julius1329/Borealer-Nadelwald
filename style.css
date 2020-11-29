@@ -25,6 +25,7 @@ a{
   text-align: center;
   position: fixed;
   bottom: 30;
+  overflow: hidden;
 }
 .1picture{
   position: fixed;
