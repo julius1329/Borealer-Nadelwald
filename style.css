@@ -24,7 +24,7 @@ a{
   text-align: center;
   position: fixed;
   bottom: 30;
-  color: op
+  display: inline-block;
 }
 .1picture{
   position: fixed;
