@@ -26,6 +26,7 @@ a{
   position: fixed;
   bottom: 30;
   overflow: hidden;
+  border-collapse: collapse;
 }
 .1picture{
   position: fixed;
